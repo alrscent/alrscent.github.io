@@ -3,3 +3,22 @@
 ---
 
 @import 'modern-resume-theme';
+/* 나눔스퀘어 웹폰트 */
+@import url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/NanumSquare.css');
+
+/* 기본 폰트 적용 */
+body,
+html,
+p,
+div,
+span,
+li,
+a {
+  font-family: 'NanumSquare', sans-serif;
+}
+
+/* 제목 계열도 명시적으로 */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'NanumSquare', sans-serif;
+  font-weight: 700;
+}
