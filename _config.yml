@@ -48,7 +48,9 @@ github_username:  alrscent
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Java & Spring 기반의 커머스 백엔드 개발자로 회원, 배송, 결제, 상품 카테고리 등 다양한 영역의 업무를 경험했습니다.
+  Java & Spring 기반의 시니어 커머스 백엔드 개발자입니다.
+  대용량 트래픽 환경에서 안정성과 성능을 고려한 MSA 기반 배송, 회원, 결제 등의 서비스를 담당해서 설계하고 개선했습니다.
+  현재는 SI 프로젝트의 일원으로 백엔드와 프론트엔드 서비스를 함께 개발하고 있습니다.
 #  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 #
 #  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
@@ -73,20 +75,41 @@ about_content: | # this will include new lines to allow paragraphs
 #        description: | # this will include new lines to allow paragraphs
 #          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
-#  - title: Experience # Title for the section
-#    layout: list # Type of content section (list/text)
-#    content:
-#      - layout: left
-#        title: The Boring Company
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: 티켓몬스터
 #        link: boringcompany.com
 #        # link_text: boringcompany.com
-#        sub_title: Senior Network System Administrator
-#        caption: November 2017 - Present
-#        quote: >
-#          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-#        description: | # this will include new lines to allow paragraphs
-#            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
+        sub_title: 백엔드 개발자
+        caption: 2016.04 - 2022.12
+        quote: >
+           MAU 500만 소셜커머스 서비스
+        description: | # this will include new lines to allow paragraphs
+      - layout: left
+        title: NHN Technology Services
+#        link: boringcompany.com
+#        # link_text: boringcompany.com
+        sub_title: 웹 개발자
+        caption: 2008.06 - 2016.03
+        quote: >
+          NHN(현 네이버)의 계열사로 네이버 플랫폼에 대해 다양한 기술 서비스를 제공하고 운영하는 기술법인
+        description: | # this will include new lines to allow paragraphs
+            - 콜 상담시스템 통계 서비스 운영
+            - 한게임 이메일 고객센터 메인 개발 및 운영
+            - NHN NEXT 홈페이지/학사행정 서비스 메인 개발
+            - Naver Business Platform 네트워크 모니터링 시스템 조회 서비스 메인 개발
+      - layout: left
+        title: (주)디지털원
+#        link: boringcompany.com
+#        # link_text: boringcompany.com
+        sub_title: 웹 개발자
+        caption: 2006.11 - 2008.05
+        quote: >
+          경영정보시스템 및 차세대 업무시스템 구축 중심의 SI 기업
+        description: | # this will include new lines to allow paragraphs
+            - 공기업 업무시스템 SI 프로젝트 참여(KTF, 한국정보보호진흥원)
 #  - title: Education # Title for the section
 #    layout: list # Type of content section (list/text)
 #    content:
