@@ -87,6 +87,14 @@ content:
         quote: >
            MAU 500만 소셜커머스 서비스
         description: | # this will include new lines to allow paragraphs
+           - 편의점 픽업 배송 개발 및 운영
+           - 유료회원 서비스 개발 및 운영
+           - 회원 CI/DI 수집 개발 및 운영
+           - 패션뷰티 개선과제 백엔드 메인 개발 및 운영
+           - 영중소사업자 카드수수료 환급 개발 및 운영
+           - 적립금 서비스 운영
+           - 마이데이터 정보 제공 서비스 메인 개발
+           - 딜 구조 개선 프로젝트 배송 업무 담당 참여
       - layout: left
         title: NHN Technology Services
 #        link: boringcompany.com
