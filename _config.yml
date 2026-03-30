@@ -108,6 +108,13 @@ content:
             - 한게임 이메일 고객센터 메인 개발 및 운영
             - NHN NEXT 홈페이지/학사행정 서비스 메인 개발
             - Naver Business Platform 네트워크 모니터링 시스템 조회 서비스 메인 개발
+        tags:
+          - Java/JSP
+          - Spring
+          - Spring Boot
+          - MySQL
+          - Redis
+          - 대용량 트래픽
       - layout: left
         title: (주)디지털원
 #        link: boringcompany.com
@@ -119,8 +126,8 @@ content:
         description: | # this will include new lines to allow paragraphs
             - 공기업 업무시스템 SI 프로젝트 참여(KTF, 한국정보보호진흥원)
         tags:
-          - "#Java/JSP"
-          - "#Oracle"
+          - Java/JSP
+          - Oracle
 #  - title: Education # Title for the section
 #    layout: list # Type of content section (list/text)
 #    content:
