@@ -113,7 +113,10 @@ content:
           - Spring
           - Spring Boot
           - MySQL
+          - Apache/Tomcat
           - Redis
+          - Git
+          - Jira
           - 대용량 트래픽
       - layout: left
         title: (주)디지털원
