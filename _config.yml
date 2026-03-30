@@ -116,11 +116,11 @@ content:
         caption: 2006.11 - 2008.05
         quote: >
           경영정보시스템 및 차세대 업무시스템 구축 중심의 SI 기업
-        tags:
-          - Java/JSP
-          - Oracle
         description: | # this will include new lines to allow paragraphs
             - 공기업 업무시스템 SI 프로젝트 참여(KTF, 한국정보보호진흥원)
+        tags:
+          - "#Java/JSP"
+          - "#Oracle"
 #  - title: Education # Title for the section
 #    layout: list # Type of content section (list/text)
 #    content:

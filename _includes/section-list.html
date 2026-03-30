@@ -23,14 +23,14 @@
       {%- if item.quote -%}
         <p class="quote">{{ item.quote }}</p>
       {%- endif -%}
-      {%- if item.tags -%}
-          <p class="resume-tags">
-          {% for tag in item.tags %}
-              <span class="resume-tag">{{ tag }}</span>
-          {% endfor %}
-          </p>
-      {%- endif -%}
       {{ item.description | strip | markdownify }}
+      {%- if item.tags -%}
+        <p class="resume-tags">
+        {% for tag in item.tags %}
+            <span class="resume-tag">{{ tag }}</span>
+        {% endfor %}
+         </p>
+      {%- endif -%}
     </div>
   </div>
 {% endfor %}
