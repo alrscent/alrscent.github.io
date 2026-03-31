@@ -82,8 +82,8 @@ content:
         title: 엠투엠글로벌
 #        link: boringcompany.com
 #        # link_text: boringcompany.com
-        sub_title: 풀스택 개발자
-        caption: 2015.08 - 
+        sub_title: 웹 개발자
+        caption: 2025.08 - 
         quote: >
            커머스 프로젝트 전문 SI 업체
         description: | # this will include new lines to allow paragraphs
@@ -91,6 +91,7 @@ content:
            - 수협몰 고도화 프로젝트
         tags:
           - Java/JSP
+          - TypeScript
           - VUE3
           - Spring
           - Spring Boot
@@ -117,6 +118,8 @@ content:
           - Spring
           - Spring Boot
           - Spring Batch
+          - JavaScript
+          - JQuery
           - MySQL
           - Nginx/Tomcat
           - Git
