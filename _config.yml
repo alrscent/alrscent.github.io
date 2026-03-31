@@ -82,7 +82,7 @@ content:
         title: 엠투엠글로벌
 #        link: boringcompany.com
 #        # link_text: boringcompany.com
-        sub_title: 웹 개발자
+        sub_title: 풀스택 개발자
         caption: 2025.08 - 
         quote: >
            커머스 프로젝트 전문 SI 업체
@@ -92,7 +92,7 @@ content:
         tags:
           - Java/JSP
           - TypeScript
-          - VUE3
+          - Nuxt/Vue3
           - Spring
           - Spring Boot
           - Oracle
