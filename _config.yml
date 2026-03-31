@@ -79,6 +79,23 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: 엠투엠글로벌
+#        link: boringcompany.com
+#        # link_text: boringcompany.com
+        sub_title: 풀스택 개발자
+        caption: 2015.08 - 
+        quote: >
+           커머스 프로젝트 전문 SI 업체
+        description: | # this will include new lines to allow paragraphs
+           - 반도체 BtoB 경매 시스템 운영
+           - 수협몰 고도화 프로젝트
+        tags:
+          - Java/JSP
+          - VUE3
+          - Spring
+          - Spring Boot
+          - Oracle
+      - layout: left
         title: 티켓몬스터
 #        link: boringcompany.com
 #        # link_text: boringcompany.com
@@ -95,6 +112,17 @@ content:
            - 적립금 서비스 운영
            - 마이데이터 정보 제공 서비스 메인 개발
            - 딜 구조 개선 프로젝트 배송 업무 담당 참여
+        tags:
+          - Java/JSP
+          - Spring
+          - Spring Boot
+          - Spring Batch
+          - MySQL
+          - Nginx/Tomcat
+          - Git
+          - Jira
+          - MSA
+          - 대용량트래픽
       - layout: left
         title: NHN Technology Services
 #        link: boringcompany.com
@@ -117,7 +145,7 @@ content:
           - Redis
           - Git
           - Jira
-          - 대용량 트래픽
+          - 대용량트래픽
       - layout: left
         title: (주)디지털원
 #        link: boringcompany.com
