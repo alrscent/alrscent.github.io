@@ -122,6 +122,7 @@ content:
           - JQuery
           - MySQL
           - Nginx/Tomcat
+          - Jenkins
           - Git
           - Jira
           - MSA
@@ -147,6 +148,7 @@ content:
           - Apache/Tomcat
           - Redis
           - Git
+          - Jenkins
           - Jira
           - 대용량트래픽
       - layout: left
